@@ -1,4 +1,4 @@
-# Binary Applied Threshold Segmentation
+# Binary Action Threshold Segmentation
 
 This time series segmentation algorithm was developed for the ICE Overlay Digitalisation system.
 
