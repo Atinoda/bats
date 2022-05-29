@@ -1,0 +1,4 @@
+# Generic ignored files
+_notyougit
+# Spyder project
+.spyproject
