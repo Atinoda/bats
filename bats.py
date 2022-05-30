@@ -3,8 +3,6 @@
 
 import matplotlib.pyplot as plt
 import numpy as np
-import pandas as pd
-pd.plotting.register_matplotlib_converters()
 
 def bats(t, v, cthresh, c0_filter=None, c1_filter=None, plot=False, num=1):
     '''
